@@ -23,9 +23,6 @@
 
   columns[2][2] = 'FREE';
 
-  // console.table(columns);
-
-  //配列の縦と横を反転させる式
   const bingo = [];
   for (let row = 0; row < 5; row++){
     bingo[row] = [];
